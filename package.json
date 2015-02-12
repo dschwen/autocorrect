@@ -1,0 +1,13 @@
+{
+  "name": "autocorrect",
+  "main": "./lib/autocorrect",
+  "version": "0.0.0",
+  "description": "Autocorrect common typos immediately",
+  "repository": "https://github.com/dschwen/autocorrect",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
